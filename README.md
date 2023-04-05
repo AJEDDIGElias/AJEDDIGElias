@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
+- 👨‍💻 All of my projects are available at [elias-ajeddig.com](elias-ajeddig.com)
 
 - 📝 I regularly share interesting posts related to cybersecurity on my Twitter
 
